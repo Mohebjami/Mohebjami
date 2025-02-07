@@ -1,6 +1,9 @@
 # 💫 About Me:
-	•	🔭 I’m currently working on:Listoli and DEV FUSION LAB</br>	•	🤝 I’m looking to collaborate on: Flutter projects involving advanced database management, custom widgets, or multi-platform functionality.</br>	•	🛠 I’m looking for help with: Improving performance in Flutter apps, integrating advanced animations, and enhancing accessibility in Persian-language apps.</br>	•	🌱 I’m currently learning: State management techniques in Flutter, advanced animations, and backend integrations with Firebase and SQLite.</br>	•	💬 Ask me about: Flutter development, SQLite database operations, Persian-language app localization, and creating custom UI components in Flutter.
-
+- 🔭 **I’m currently working on:** Listoli and DEV FUSION LAB  
+- 🤝 **I’m looking to collaborate on:** Flutter projects involving advanced database management, custom widgets, or multi-platform functionality.  
+- 🛠 **I’m looking for help with:** Improving performance in Flutter apps, integrating advanced animations, and enhancing accessibility in Persian-language apps.  
+- 🌱 **I’m currently learning:** State management techniques in Flutter, advanced animations, and backend integrations with Firebase and SQLite.  
+- 💬 **Ask me about:** Flutter development, SQLite database operations, Persian-language app localization, and creating custom UI components in Flutter.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohebjami87) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/moheb-jami-603381178) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Moheb_Jami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohebjami2018@gmail.com) 
