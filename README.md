@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 **I’m currently working on:** Listoli and DEV FUSION LAB  
+- 🔭 **I’m currently working on:** Listoli
 - 🤝 **I’m looking to collaborate on:** Flutter projects involving advanced database management, custom widgets, or multi-platform functionality.  
 - 🛠 **I’m looking for help with:** Improving performance in Flutter apps, integrating advanced animations, and enhancing accessibility in Persian-language apps.  
 - 🌱 **I’m currently learning:** State management techniques in Flutter, advanced animations, and backend integrations with Firebase and SQLite.  
